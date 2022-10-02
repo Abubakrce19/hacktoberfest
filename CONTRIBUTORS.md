@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abubakrce19](https://github.com/Abubakrce19)
+- Place: Lahore, Pakistan
+- Bio: Web developer PHP and Python
+- Github: [Abubakrce19](https://github.com/Abubakrce19)
